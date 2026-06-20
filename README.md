@@ -1,4 +1,3 @@
-<img width="640" height="480" alt="selfie" src="https://github.com/user-attachments/assets/45d66670-5052-46dd-aa33-ab122b5b1055" />
 <img width="640" height="480" alt="selfie" src="https://github.com/user-attachments/assets/b0901f78-6ab2-4e20-8e76-5f9f505e56b7" />
 # 🖐️ Hybrid Gesture-Driven Selfie Camera using Computer Vision
 
